@@ -1,4 +1,3 @@
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
 import somepackage.Other;
 import somepackage.Some;
 import somethinggreen.Contract;

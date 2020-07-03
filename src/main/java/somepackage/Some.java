@@ -24,6 +24,10 @@ public class Some extends Abstract implements Contract {
      */
     public String noMoreSecrets;
 
+    public Some() {
+        super("А вот так вот ");
+    }
+
     /**
      * Геттер публичного поля.
      * Бессмысленный и беспощадный.
